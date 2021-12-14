@@ -1,0 +1,26 @@
+_repo: The-Boy-Scouts-Victory_66921
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Durston, George
+    gutenberg_agent_id: '1844'
+    url: http://www.gutenberg.org/2009/agents/1844
+    wikipedia: https://en.wikipedia.org/wiki/Colonel_George_Durston
+description: ''
+gutenberg_issued: '2021-12-10'
+identifiers:
+  gutenberg: '66921'
+language: en
+pgterms:marc905: 20200121161554durston
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: Stephen Hutcheson, Sue Clark, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :The Saalfield Publishing Company,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Boy Scouts’ Victory
+url: http://www.gutenberg.org/ebooks/66921
